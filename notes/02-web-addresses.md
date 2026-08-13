@@ -10,3 +10,19 @@ We typically refer to IPv4 addresses currently. Each of the four sections in Ipv
 DNS (Domain Name System) maps IP addresses to human-readable domain names. The mapping process of taking a name to an IP address is called DNS lookup.
 Each time we send an HTTP request to a server on a Domain, we need to resolve the DNS (to get an IP address), then use that IP address to make the request.
 
+### Domain, Top-level Domain & Subdomain
+.com, .org, .net are examples of top-level domains.
+The domain **name** is often the name of the brand or company.
+The subdomain prefixes the domain name, which can enable a domain to route traffic to separate servers and/or resources.
+
+Eg. "developer.mozilla.org"
+top-level domain: .org
+domain name: mozilla
+subdomain: developer
+
+### URL API
+JavaScript has a built-in URL API. The constructor takes a **url** as the parameter. Usefully, you can extract the **hostname** or **pathname** from the URL object.
+```
+const url = new URL("http://www.example.com/inventory/items");
+console.log(url.hostname);
+```

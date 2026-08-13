@@ -19,3 +19,10 @@ for (let i = 0; i < data.Answer.length; i++) {
 for (let i = 0; i < ipAddresses.length; i++) {
     console.log(ipAddresses[i]);
 }
+
+/**
+ * Let's find the hostname from a given URL
+ */
+const url = new URL("http://www.example.com/inventory/items");
+console.log(url.hostname);
+console.log(url.pathname);

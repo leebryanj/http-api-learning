@@ -16,6 +16,15 @@ The purpose of this repository is to document my learning progress and provide h
 ### 2. Web Addresses
 - IP Address
 - DNS
+- Domain, Top-level Domain & Subdomain
+- URL API
+
+### 3. URI and URL
+- URIs
+- Parts of a URL
+- Ports
+- URL Path
+- Query Parameters
 
 ## Notes & Code
 ### Notes
