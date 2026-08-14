@@ -1,5 +1,5 @@
 /**
- * Let's use the JavaScript URL API to log each part of the URL
+ * Parts of a URL: Let's use the JavaScript URL API to log each part of the URL
  */
 const exampleURL = "https://user:password@www.example.com:8080/path/to/page?search=hello&sort=asc#section-2"
 
@@ -14,7 +14,7 @@ console.log(`Search (query string): ${exampleURLObject.search}`);
 console.log(`Hash: ${exampleURLObject.hash}`);
 
 /**
- * Let's request the name of one specific Pokémon using the api/v2/pokemon path
+ * URL Path: Let's request the name of one specific Pokémon using the api/v2/pokemon path
  */
 
 const response = await fetch("https://pokeapi.co/api/v2/pokemon/pikachu");

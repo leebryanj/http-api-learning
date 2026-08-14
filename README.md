@@ -26,6 +26,11 @@ The purpose of this repository is to document my learning progress and provide h
 - URL Path
 - Query Parameters
 
+### JavaScript Async
+- Synchronous & Asynchronous Code
+- JavaScript Promises
+- JavaScript Async using Await
+
 ## Notes & Code
 ### Notes
 The 'notes' folder contains my personal notes for each of the topics listed above

@@ -1,5 +1,5 @@
 /**
- * Let's try to find the IP address from the API
+ * IP Adress: Let's try to find the IP address from the API
  */
 // type=A returns IPv4. type=AAAA would return the IPv6 address
 const response = await fetch("https://cloudflare-dns.com/dns-query?name=pokeapi.co&type=A", {
@@ -21,7 +21,7 @@ for (let i = 0; i < ipAddresses.length; i++) {
 }
 
 /**
- * Let's find the hostname from a given URL
+ * URL API: Let's find the hostname from a given URL
  */
 const url = new URL("http://www.example.com/inventory/items");
 console.log(url.hostname);
