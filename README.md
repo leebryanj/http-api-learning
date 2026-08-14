@@ -26,7 +26,7 @@ The purpose of this repository is to document my learning progress and provide h
 - URL Path
 - Query Parameters
 
-### JavaScript Async
+### 4. JavaScript Async
 - Synchronous & Asynchronous Code
 - JavaScript Promises
 - JavaScript Async using Await
