@@ -31,6 +31,13 @@ The purpose of this repository is to document my learning progress and provide h
 - JavaScript Promises
 - JavaScript Async using Await
 
+### 5. JavaScript Errors
+- try...catch statement
+- Bugs vs Errors
+
+### 6. HTTP Headers
+- JavaScript Headers Interface
+
 ## Notes & Code
 ### Notes
 The 'notes' folder contains my personal notes for each of the topics listed above
