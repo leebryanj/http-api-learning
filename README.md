@@ -38,6 +38,12 @@ The purpose of this repository is to document my learning progress and provide h
 ### 6. HTTP Headers
 - JavaScript Headers Interface
 
+### 7. JSON
+- JSON Structure
+- Response .json() method
+- JSON.stringify() and JSON.parse()
+- XML (Extensible Markup Language)
+
 ## Notes & Code
 ### Notes
 The 'notes' folder contains my personal notes for each of the topics listed above
