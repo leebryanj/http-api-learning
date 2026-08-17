@@ -44,6 +44,14 @@ The purpose of this repository is to document my learning progress and provide h
 - JSON.stringify() and JSON.parse()
 - XML (Extensible Markup Language)
 
+### 8. HTTP Methods
+- GET (Request) Method
+- POST (Request) Method
+- PUT (Request) Method
+- DELETE (Request) Method
+- CRUD
+- HTTP Status Codes
+
 ## Notes & Code
 ### Notes
 The 'notes' folder contains my personal notes for each of the topics listed above
