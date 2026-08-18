@@ -36,3 +36,16 @@ They are written as key value pairs after the `?` as `key=value`. Each key value
 
 Example: `http://www.example.com:8080/path/to/file.html?key1=value1&key2=value2` \
 Query parameters are often used in GET requests to ask for data in a certain format.
+
+### HTTPS
+HTTPS (HyperText Transfer Protocol Secure) secures the communication between client and server by encrypting the communication between them. It is the secure version of HTTP. HTTPS uses TLS to secure HTTP communications.
+
+The order of the HTTPS encryption:
+1. Server has a public/private key pair.
+2. Client connects to the server.
+3. Server sends its certificate/public-key information to the client.
+4. Client and server perform a key exchange to establish shared secret keying material.
+5. Both derive symmetric encryption keys.
+6. Client sends the encrypted HTTP request.
+7. Server decrypts the request and sends an encrypted response.
+8. Client decrypts the response.

@@ -56,6 +56,7 @@ The purpose of this repository is to document my learning progress and provide h
 - URL Path
 - RESTful APIs
 - Query Parameters
+- HTTPS
 
 ## Notes & Code
 ### Notes
