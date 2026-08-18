@@ -52,6 +52,11 @@ The purpose of this repository is to document my learning progress and provide h
 - CRUD
 - HTTP Status Codes
 
+### 9. URL Paths
+- URL Path
+- RESTful APIs
+- Query Parameters
+
 ## Notes & Code
 ### Notes
 The 'notes' folder contains my personal notes for each of the topics listed above
