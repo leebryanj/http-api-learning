@@ -25,7 +25,7 @@ HTTP APIs are sometimes also reffered to as REST APIs, even though they may not 
 4. **Cacheable**: Responses indicate whether they can be cached. \
 • Caching can reduce repeated requests. \
 • This can improve performance and reduce server load.
-5. **Layered System**: The client doesn't necessarily communicate firectly with the final server. \
+5. **Layered System**: The client doesn't necessarily communicate directly with the final server. \
 • Client -> API Gateway -> Load Balancer -> Server \
 • Each layer can perform a specific job without the client needing to know about it.
 
